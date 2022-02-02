@@ -1,0 +1,2 @@
+C:\Users\sm59412\source\repos\Jan31\CalculatorLibrary\obj\Debug\CalculatorClass.csproj.AssemblyReference.cache
+C:\Users\sm59412\source\repos\Jan31\CalculatorLibrary\obj\Debug\CalculatorClass.csproj.CoreCompileInputs.cache
