@@ -1,0 +1,23 @@
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\bin\Debug\BAL.dll
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\bin\Debug\BAL.pdb
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\bin\Debug\DAL.dll
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\bin\Debug\DAL.pdb
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\obj\Debug\BAL.dll
+H:\Talent Managemnet System\TalentManagementSystems\BusinessAccessLayer\BAL\obj\Debug\BAL.pdb
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\bin\Debug\BAL.dll
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\bin\Debug\BAL.pdb
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\bin\Debug\DAL.dll
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\bin\Debug\DAL.pdb
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\obj\Debug\BAL.dll
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\BusinessAccessLayer\BAL\obj\Debug\BAL.pdb
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\bin\Debug\BAL.dll
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\bin\Debug\BAL.pdb
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\bin\Debug\DAL.dll
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\bin\Debug\DAL.pdb
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\obj\Debug\BAL.csproj.CopyComplete
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\obj\Debug\BAL.dll
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\obj\Debug\BAL.pdb
+D:\New\Talent Management System\Talent Management System\BusinessAccessLayer\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache

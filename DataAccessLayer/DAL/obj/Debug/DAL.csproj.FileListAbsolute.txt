@@ -1,0 +1,16 @@
+H:\Talent Managemnet System\TalentManagementSystems\DataAccessLayer\DAL\bin\Debug\DAL.dll
+H:\Talent Managemnet System\TalentManagementSystems\DataAccessLayer\DAL\bin\Debug\DAL.pdb
+H:\Talent Managemnet System\TalentManagementSystems\DataAccessLayer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Talent Managemnet System\TalentManagementSystems\DataAccessLayer\DAL\obj\Debug\DAL.dll
+H:\Talent Managemnet System\TalentManagementSystems\DataAccessLayer\DAL\obj\Debug\DAL.pdb
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\DataAccessLayer\DAL\bin\Debug\DAL.dll
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\DataAccessLayer\DAL\bin\Debug\DAL.pdb
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\DataAccessLayer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\DataAccessLayer\DAL\obj\Debug\DAL.dll
+G:\@@@@@@@@@@@@TotalProjects2017\Talent Management System\code\DataAccessLayer\DAL\obj\Debug\DAL.pdb
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\bin\Debug\DAL.dll
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\bin\Debug\DAL.pdb
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\obj\Debug\DAL.dll
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\obj\Debug\DAL.pdb
+D:\New\Talent Management System\Talent Management System\DataAccessLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

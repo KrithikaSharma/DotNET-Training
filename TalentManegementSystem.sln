@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TalentManegement", "http://localhost:56812", "{A1673494-279D-4035-B120-45C39F147B28}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{6b938876-c384-4cd2-a73a-ad4d14afdc9a}|BAL.dll;{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}|DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56812"
+		Debug.AspNetCompiler.PhysicalPath = "TalentManegement\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56812\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56812"
+		Release.AspNetCompiler.PhysicalPath = "TalentManegement\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56812\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "TalentManegement\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BusinessAccessLayer\BAL\BAL.csproj", "{6B938876-C384-4CD2-A73A-AD4D14AFDC9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DataAccessLayer\DAL\DAL.csproj", "{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1673494-279D-4035-B120-45C39F147B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1673494-279D-4035-B120-45C39F147B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1673494-279D-4035-B120-45C39F147B28}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1673494-279D-4035-B120-45C39F147B28}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6B938876-C384-4CD2-A73A-AD4D14AFDC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B938876-C384-4CD2-A73A-AD4D14AFDC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B938876-C384-4CD2-A73A-AD4D14AFDC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B938876-C384-4CD2-A73A-AD4D14AFDC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD9DC00-6B33-4A11-85F3-0E8B6D118F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
